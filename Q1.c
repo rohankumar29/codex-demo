@@ -31,7 +31,7 @@ int main() {
     print(head);
     insertpos(3);
     print(head);
-    insertLast1(1);
+    insertLast1(4);
     insertLast1(5);
     insertLast1(6);
     print(head1);
