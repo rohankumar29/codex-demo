@@ -81,7 +81,7 @@ int main (){
     int i;
     scanf("%d", &i);
     char array[i];
-    printf("What are the brackets?");
+    printf("What are the brackets ?");
     for(int j = 0; i>j; j++){
         scanf("%c", &array[j]);
     }
