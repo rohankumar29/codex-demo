@@ -24,7 +24,7 @@ struct node* tail1;
 
 int main() {
     insertLast(2);
-    insertLast(4);
+    insertLast(3);
     insertFirst(3);
     print(head);
     deleteFirst(3);
